@@ -181,14 +181,14 @@ main-project p {
 
 .card-image {
     grid-area: image;
-    background: url("file:///C:/Users/(0_0)/Desktop/Group%2035.png");
+    background: url("pic/Group 35.png");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
 }
 .card-image2 {
     grid-area: image;
-    background: url("file:///C:/Users/(0_0)/Desktop/Frame%201.png");
+    background: url("pic/Frame 1.png");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -197,7 +197,7 @@ main-project p {
 }
 .card-image3 {
     grid-area: image;
-    background: url("file:///C:/Users/(0_0)/Desktop/webdesign.PNG");
+    background: url("pic/webdesign.PNG");
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
